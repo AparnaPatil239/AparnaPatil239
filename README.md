@@ -1,4 +1,4 @@
-1 align="center">Hi 👋, I'm Aparna Patil</h1>
+<h1 align="center">Hi 👋, I'm Aparna Patil</h1>
 <h3 align="center">Data enthusiast working as a software engineer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/AparnaPatil239](https://github.com/AparnaPatil239)
